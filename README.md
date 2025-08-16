@@ -44,7 +44,7 @@ Este proyecto combina un enfoque **técnico de ciencia de datos** con una **visi
 
 ## 🚀 Cómo usar
 1. Clonar este repositorio.  
-2. Abrir [TelecomX_P1_LATAM_RVJ.ipynb](https://github.com/ro-kazz/Challenge-DS-LATAM-Telecom-P1/blob/149e0ce22a9a9cfe6966190e8f2cc55c8232c7fb/TelecomX_P1_LATAM_RVJ.ipynb).  
+2. Abrir [TelecomX_P1_LATAM_RVJ.ipynb](TelecomX_P1_LATAM_RVJ.ipynb).  
 3. Ejecutar las celdas.  
 
 ---
